@@ -16,3 +16,18 @@ a, a:hover {
 .koffiebruin{
   color: #ca8446;
 }
+
+.navbar{
+  background-color: #fff;
+  
+}
+
+.socials {
+  display: flex;
+  justify-content: left; 
+  align-items: center; 
+}
+
+.socials li {
+  margin-right: 10px; 
+}
